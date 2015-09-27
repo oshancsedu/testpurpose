@@ -10,7 +10,7 @@
 
 <h1>RFID Information</h1>
 
-<form action='verify' method="GET">
+<form action='verify' method="POST">
 	<label>
 	</label>
 	<label>
