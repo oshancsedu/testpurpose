@@ -4,7 +4,7 @@ Route::resource('store', 'TestController');
 
 Route::get('/', function () {
 
-    $faker= Faker\Factory::create('bn_BN');
+    $faker= Faker\Factory::create();
     for($i=0;$i<10;$i++)
     {
         var_dump($faker->firstName." ".$faker->lastName);

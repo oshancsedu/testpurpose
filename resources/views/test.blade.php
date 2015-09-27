@@ -10,7 +10,7 @@
 
 <h1>RFID Information</h1>
 
-<!--<form action='verify' method="POST">
+<form action='verify' method="GET">
 	<label>
 	</label>
 	<label>
@@ -30,7 +30,7 @@
 	</label>
 {!! Form::close()!!}
 
-{!! DB::Connection()->getDatabaseName() !!} -->
+{!! DB::Connection()->getDatabaseName() !!} 
 
 
 
