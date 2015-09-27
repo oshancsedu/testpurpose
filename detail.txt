@@ -1,5 +1,4 @@
 $Mfg:JAN 25 2015$ExpD:JAN 24 2017$Batch:0001$Status:ON~
 $Mfg:JAN 25 2015$ExpD:JAN 24 2017$Batch:0002$Status:ON~
 $Mfg:JUN 12 2015$ExpD:JAN 24 2016$Batch:0003$Status:ON~
-$Mfg:APR 17 2015$ExpD:JUN 24 2016$Batch:0004$Status:OFF~
-
+$Mfg:APR 17 2015$ExpD:JUN 24 2016$Batch:0004$Status:ON~
